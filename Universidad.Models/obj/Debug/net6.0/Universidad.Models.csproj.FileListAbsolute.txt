@@ -1,0 +1,11 @@
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.Models\bin\Debug\net6.0\Universidad.Models.deps.json
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.Models\bin\Debug\net6.0\Universidad.Models.dll
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.Models\bin\Debug\net6.0\Universidad.Models.pdb
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.Models\obj\Debug\net6.0\Universidad.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.Models\obj\Debug\net6.0\Universidad.Models.AssemblyInfoInputs.cache
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.Models\obj\Debug\net6.0\Universidad.Models.AssemblyInfo.cs
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.Models\obj\Debug\net6.0\Universidad.Models.csproj.CoreCompileInputs.cache
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.Models\obj\Debug\net6.0\Universidad.Models.dll
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.Models\obj\Debug\net6.0\refint\Universidad.Models.dll
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.Models\obj\Debug\net6.0\Universidad.Models.pdb
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.Models\obj\Debug\net6.0\ref\Universidad.Models.dll

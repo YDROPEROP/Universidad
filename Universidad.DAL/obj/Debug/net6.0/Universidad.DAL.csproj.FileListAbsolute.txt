@@ -1,0 +1,17 @@
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\bin\Debug\net6.0\Universidad.DAL.deps.json
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\bin\Debug\net6.0\Universidad.DAL.runtimeconfig.json
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\bin\Debug\net6.0\Universidad.DAL.dll
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\bin\Debug\net6.0\Universidad.DAL.pdb
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\bin\Debug\net6.0\Universidad.Models.dll
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\bin\Debug\net6.0\Universidad.Models.pdb
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\obj\Debug\net6.0\Universidad.DAL.csproj.AssemblyReference.cache
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\obj\Debug\net6.0\Universidad.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\obj\Debug\net6.0\Universidad.DAL.AssemblyInfoInputs.cache
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\obj\Debug\net6.0\Universidad.DAL.AssemblyInfo.cs
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\obj\Debug\net6.0\Universidad.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\obj\Debug\net6.0\Universidad.DAL.csproj.CopyComplete
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\obj\Debug\net6.0\Universidad.DAL.dll
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\obj\Debug\net6.0\refint\Universidad.DAL.dll
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\obj\Debug\net6.0\Universidad.DAL.pdb
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\obj\Debug\net6.0\Universidad.DAL.genruntimeconfig.cache
+C:\Users\ydrop\source\repos\Universidad.UI\Universidad.DAL\obj\Debug\net6.0\ref\Universidad.DAL.dll
